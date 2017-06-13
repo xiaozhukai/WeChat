@@ -1,0 +1,17 @@
+#开发环境
+server:
+  #配置新分配的端口号(默认是8080)
+  port: 8080
+  #配置项目路径(默认是根目录/)
+  context-path: /
+
+#配置web层应用，这里应为不是server里面的属性，所以要定格书写
+#cupSize: B
+#age: 18
+#整合到一起返回也是可以的
+#content: "cupSize: ${cupSize}, age: ${age}"
+
+#使用前缀获取参数
+content:
+  cupSize: B
+  age: 18
