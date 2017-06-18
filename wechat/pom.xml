@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>wechat</name>
-	<description>wechat project for Spring Boot</description>
+	<description>wechat  project  for Spring Boot</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
